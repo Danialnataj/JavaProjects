@@ -1,2 +1,3 @@
-# JavaProjects
-Learning programming from scratch - Showing my progress with different projects
+JavaProjects
+Former economist turned developer.
+Learning programming from scratch and showing my progress with different projects
